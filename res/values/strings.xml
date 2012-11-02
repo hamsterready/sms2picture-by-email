@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SMS2PictureByEmail</string>
+    <string name="email_address">Email Address</string>
+    <string name="save">Update</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="logo_description">SMS to Picture By Email</string>
+    <string name="sms_to_picture_by_email">SMS to Picture by Email</string>
+    <string name="intro_text">Whenever SMS is received from spcified Mobile Number application will take a picture, upload it to the *public* server and send email with link to email specified below.</string>
+</resources>
